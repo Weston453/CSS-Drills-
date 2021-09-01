@@ -1,0 +1,41 @@
+.box1{
+    height: 80px;
+    background-color: gray;
+    padding: 10px;
+}
+
+#small-box{
+    height: 75px;
+    width: 75px;
+    background-color: steelblue;
+   
+    box-align: center;
+}
+
+.box2{
+    height: 150px;  
+    justify-content:space-around; 
+    text-align: center;
+    margin: 40px;
+    font-size: 20px;
+}
+
+.box3{
+    height: 100px;
+    background-color: steelblue
+}
+
+.box4{
+    height: 100px;
+    background-color: rgb(35, 206, 149)    
+}
+
+.box5{
+    height: 100px;
+    background-color: rgb(138, 172, 59)
+}
+
+.box6{
+    height: 100px;
+    background-color: rgb(218, 215, 55)
+}
